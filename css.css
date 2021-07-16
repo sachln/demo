@@ -1,0 +1,94 @@
+#row1{
+    margin-top:150px;
+}
+#row2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 5px ;
+    border-style: double;
+  padding: 10px;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 20px;
+}
+img{
+    
+    width: 660px;
+    height: 400px;
+    z-index: -1;
+}
+#key{
+    
+    height: 400px;
+    background-color: black;
+    border-radius: 20px;
+    
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+#table{
+    margin-top: 20px;
+    color: aliceblue;
+}
+p{
+    padding-left: 10px;
+}
+button{
+    width: 50px;
+}
+#e{
+    position: absolute;
+    top: 0%;
+    left: 10%;
+    
+}
+#r{
+    position: absolute;
+    top: 00%;
+    left: 43%;
+    
+}
+#i{
+    position: absolute;
+    top: 10%;
+    left: 60%;
+    
+}
+#k{
+    position: absolute;
+    top: 10%;
+    left: 75%;
+    
+}
+#f{
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    
+}
+#g{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    
+}
+#h{
+    position: absolute;
+    top: 10%;
+    left: 47%;
+    
+}
+#v{
+    position: absolute;
+    top: 65%;
+    left: 30%;
+    
+}
+#j{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    
+}
